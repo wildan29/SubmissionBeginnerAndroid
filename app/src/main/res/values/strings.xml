@@ -1,3 +1,83 @@
 <resources>
-    <string name="app_name">About Indonesia</string>
+    <string name="app_name">Anime</string>
+    <string name="nama">Mochammad Wildan Alghifari</string>
+
+    <string-array name="nama_anime">
+        <item>Naruto Uzumaki</item>
+        <item>Sasuke Uchiha</item>
+        <item>Sakura Haruno</item>
+        <item>Kakashi Hatake</item>
+        <item>Hashirama Senju</item>
+        <item>Tobirama Senju</item>
+        <item>Hiruzen Sarutobi</item>
+        <item>Minato Namikaze</item>
+        <item>Rock Lee</item>
+        <item>Jiraya</item>
+    </string-array>
+
+    <string-array name="deskripsi_anime">
+        <item>
+            Naruto Uzumaki (渦巻 鳴門, Uzumaki Naruto) adalah shinobi dari Konohagakure. Dia menjadi jinchūriki dari Ekor Sembilan pada hari kelahirannya — sebuah nasib yang menyebabkan dia dijauhi oleh sebagian besar penduduk Konoha sepanjang masa kecilnya. Setelah bergabung dengan Tim Kakashi, Naruto bekerja keras untuk mendapatkan pengakuan desa sambil mengejar mimpinya untuk menjadi Hokage.
+        </item>
+        <item>
+            Sasuke Uchiha (団扇 佐助, Uchiha Sasuke) adalah salah satu anggota terakhir klan Uchiha yang masih bertahan dari Konohagakure. Setelah kakaknya, Itachi, membantai klan mereka, Sasuke berusaha mewujudkan misinya dalam rangka untuk membalas dendam dengan membunuh Itachi. Dia dimasukkan ke Tim 7 saat menjadi seorang ninja dan, melalui persaingan dengan rival dan sahabatnya, Naruto Uzumaki, Sasuke mulai mengembangkan keahliannya.
+        </item>
+        <item>
+            Sakura Uchiha (内波 桜, Uchiha Sakura; née Haruno (春野)) adalah kunoichi dari Konohagakure. Ketika dia ditugaskan ke Tim 7, Sakura dengan cepat merasa dirinya tidak siap menghadapi tugas seorang ninja dan serta seluk-beluk kehidupan rekan setimnya.
+        </item>
+        <item>
+            Kakashi Hatake (派竹 歌々子, Hatake Kakashi) adalah shinobi Konohagakure dari klan Hatake. Terkenal sebagai Kakashi si Sharingan (写輪眼のカカシ, Sharingan no Kakashi), dia adalah salah satu ninja Konoha yang paling berbakat; secara teratur tampak suka memberi nasihat dan berkepemimpinan meskipun dia tidak menyukai tanggung jawab pribadi.
+        </item>
+        <item>
+            Hashirama Senju (千手柱間, Senju Hashirama) dulunya Hokage Pertama (初代火影, Shodai Hokage) dari Konohagakure. Dia terkenal sebagai Dewa Shinobi (忍の神, Shinobi no Kami) untuk kecakapan ninja tak tertandinginya.
+        </item>
+        <item>
+            Tobirama Senju (千手扉间, Senju Tobirama) adalah anggota dari klan Senju, yang bersama dengan saudara tertuanya serta klan Uchiha, mendirikan desa shinobi pertama.
+        </item>
+        <item>
+            Hiruzen Sarutobi (猿飛ヒルゼン, Sarutobi Hiruzen) dahulu adalah Hokage Ketiga (三代目火影, Sandaime Hokage; Secara harfiah berarti "Bayangan Api Ketiga") dari Konohagakure.
+        </item>
+        <item>
+            Minato Namikaze (波風ミナト, Namikaze Minato) dulunya adalah Hokage Keempat (四代目火影, Yondaime Hokage; Secara harfiah berarti "Bayangan Api Keempat") dari Konohagakure.
+        </item>
+        <item>
+            Rock Lee (ロック・リー, Rokku Rī) adalah shinobi dari Konohagakure. Sementara ia tidak memiliki keterampilan tertentu biasanya terkait dengan kehidupan sebagai seorang ninja, Lee berusaha untuk menebus kekurangannya dengan cara apa pun yang dia bisa.
+        </item>
+        <item>
+            Jiraiya (自来也, Jiraiya) dulunya adalah salah satu dari Sannin legendaris Konohagakure. Dia juga dikenal sebagai Petapa Kodok (蝦蟇仙人, Gama Sennin) karena dia memiliki kemiripan dengan kodok.
+        </item>
+    </string-array>
+
+    <string-array name="gambar_anime">
+        <item>
+            https://cdn1-production-images-kly.akamaized.net/Sn5EjcEhFI-jWocCljrP7CZRwyw=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1439641/original/042027300_1482131661-reddit.jpg
+        </item>
+        <item>
+            https://i.pinimg.com/736x/59/37/2d/59372dec08926ca37a2919930aa61771.jpg
+        </item>
+        <item>
+            https://www.greenscene.co.id/wp-content/uploads/2020/05/Sakura.jpg
+        </item>
+        <item>
+            https://cdn.idntimes.com/content-images/duniaku/post/20221102/maxresdefault22-5047428ccb62fc1d7045b486127dfe6d.jpg
+        </item>
+        <item>
+            https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2020/09/hashirama-naruto-feature-640x360.jpg
+        </item>
+        <item>
+            https://cdn.idntimes.com/content-images/community/2021/05/tobirama-senju-naruto-character-tobirama-wallpaper-cropped-56965fbaa68adf470a17cc45ea5d328d-c4d840672d8652fae0f0611ceaa44e92_600x400.jpg
+        </item>
+        <item>
+            https://dafunda.com/wp-content/uploads/2021/12/Inilah-Fakta-Menarik-Hiruzen-Sarutobi-Sang-Hokage-Ketiga-Desa-Konoha.jpg
+        </item>
+        <item>
+            https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/04/15/2552640168.jpg
+        </item>
+        <item>
+            https://cdn.idntimes.com/content-images/duniaku/post/20200504/rock-lee-0-da3c9e74b751d6daddb08f1625f5686d.jpg
+        </item>
+        <item>
+            https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2020/07/fakta-jiraya-640x360.jpg
+        </item>
+    </string-array>
 </resources>
