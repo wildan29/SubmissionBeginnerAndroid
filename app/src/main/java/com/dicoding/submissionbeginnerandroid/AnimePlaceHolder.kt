@@ -4,6 +4,7 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import com.bumptech.glide.Glide
@@ -25,11 +26,14 @@ class AnimePlaceHolder : AppCompatActivity() {
 
         anime = intent.getParcelableExtra(ANIME_ID)!!
 
-        if(anime != null){
-            Glide.with(this).load(anime.image).into(binding.imgItemPhoto)
-            binding.tvItemTitle.text =anime.nama
-            binding.tvItemDescription.text = anime.deskripsi
-        }
+        Glide.with(this).load(anime.image).into(binding.imgItemPhoto)
+        binding.tvItemTitle.text =anime.nama
+        binding.tvItemDescription.text = anime.deskripsi
+        binding.tvItemKepribadian.text = anime.kepribadian
+        Log.d("cek",anime.kemampuan)
+        binding.kemampuan1.text = anime.kemampuan.split("|")[0]
+        binding.kemampuan2.text = anime.kemampuan.split("|")[1]
+        binding.kemampuan3.text = anime.kemampuan.split("|")[2]
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

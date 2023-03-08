@@ -80,4 +80,69 @@
             https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2020/07/fakta-jiraya-640x360.jpg
         </item>
     </string-array>
+
+    <string-array name="kepribadian">
+        <item>
+            Tumbuh dengan tanpa sosok orang tua, Naruto menjadi anak yang riang, kurang ajar, ceroboh, dan lalai untuk hal formalitas atau hubungan sosial. Dia akan mengakhiri kalimat dengan "Dattebayo!" (だってばよ!) Ketika gembira atau frustrasi. Dia memiliki sejumlah ciri-ciri kekanak-kanakan, seperti menjadi sangat pemilih (ia hampir secara eksklusif makan ramen), takut hantu, dan membawa dompet hijau-katak gemuk yang dia sebut "Gama-chan".
+        </item>
+        <item>
+            Saat masih anak-anak, Sasuke sangat baik dan penuh kasih sayang terhadap keluarga dan hormat kepada klan,orang tua, dan guru. Dia sangat bangga menjadi anak Fugaku dan adik Itachi dan memiliki keinginan yang kuat untuk meniru mereka, menginginkan persetujuan ayahnya dan pengakuan.
+        </item>
+        <item>
+            Sakura mempunyai rambut merah muda yang panjang sepinggang pada awalnya, tetapi dipotong menjadi sebahu saat melawan musuh. Rambutnya tetap pendek sampai ia dewasa. Ia memiliki mata berwarna emerald, hidung mancung, serta kulit putih. Sakura adalah seorang gadis yang cantik dan baik. Dalam Tim 7, dia selalu mengunggulkan Sasuke dan mengolok-olok Naruto, karena ia tidak menyukai Naruto yang begitu jahil, namun seiring berjalannya waktu, Sakura mulai dekat dengan Naruto dan memaklumi kejahilannya. Sakura dan Naruto terlihat seperti saudara kakak-adik.
+        </item>
+        <item>
+            Kakashi dicirikan dengan mata yang sayu, rambut yang berwarna putih keabu-abuan, mata kirinya ditutupi pelindung kepala Konoha, dan selalu membawa buku novel dewasa "Icha-Icha Paradise" yang merupakan karya Jiraiya. Menurut Sakura, Kakashi ini selalu memasang wajah tidak bersemangat sehingga ia terlihat tidak memiliki wibawa. Tapi anehnya ada seorang pengawas ujian chuunin yang menyukainya, ialah Anko Mitarashi.
+        </item>
+        <item>
+            Hashirama adalah seorang pria bersemangat dengan kepribadian riuh. Dia senang bertemu orang-orang baru, menyukai kompetisi persahabatan, dan perjudian. Keras kepala dan sering impulsif, depresi karena orang lain – seperti saudaranya, Tobirama. Bertanggung jawab atau realistis tentang hal-hal yang Hashirama sudah terbawa.
+        </item>
+        <item>
+Tobirama adalah individu yang menggunakan pendekatan pragmatis untuk hidup. Dia percaya bahwa, melalui aturan dan hukum yang tegas, banyak masalah dunia bisa diselesaikan.[5] Dalam banyak hal dia adalah seorang tandingan cita-cita kakaknya Hashirama; ketika Hashirama terbawa dengan optimisme keras kepala, Tobirama menengahi dan memaksa alternatif yang lebih realistis dalam rangka mencapai tujuan-tujuan idealis.
+        </item>
+        <item>
+            Hiruzen adalah seorang yang percaya pada Kehendak Api, yang menyatakan bahwa semua orang dari Konoha adalah keluarga dan Hokage adalah harus bertanggung jawab untuk menjaga kesejahteraan keluarganya. Sepanjang masa jabatannya, Hiruzen hidup sampai Kehendak Api dimiliki penduduk desa dan shinobi Konoha selama waktu mereka membutuhkan, membuat keputusan untuk kemajuan orang sebanyak mungkin, dan memberikan teladan dan bimbingan setiap kali dia bisa.
+        </item>
+        <item>
+            Meskipun memiliki kemiripan fisik dengan Naruto, Minato lebih tanggap dan tenang dari sang anak di usia yang sama; Jiraiya mengatakan bahwa Minato adalah orang yang cerdas, tidak melakukan sesuatu tanpa alasan.[30] Dia sangat menyadari reputasinya terkenal di desa-desa saingan dan akan mengambil keuntungan dari itu di lain waktu, tapi bahkan kemudian ia akan tetap hormat kepada lawan.
+        </item>
+        <item>
+            Lee sangat energik, berpikiran tunggal, dan berdarah panas. Meskipun sifatnya sangat bersemangat, Lee juga telah menunjukkan naluri yang kuat, mampu tetap fokus pada misi di tangan, jarang kehilangan ketenangannya, dan memperhatikan orang-orang di sekelilingnya, bahkan mengakui teman-temannya.
+        </item>
+        <item>
+            Jiraiya memiliki karakteristik yang unik dan mencolok. Dengan mudah orang bisa mengenalinya. Rambut putihnya yang amat panjang dan mirip duri, mukanya yang dicat seperti pementas kabuki dan badannya yang besar, serta kelakuannya yang super mesum dengan mudah dikenali semua orang. Badannya besar dan tinggi, sehingga ia mudah dikenali jika berdiri di antara orang-orang.
+        </item>
+    </string-array>
+
+    <string-array name="kemampuan">
+        <item>
+            Kyuubi Chakra Mode|Variasi Rasengan yang beragam|Sage Mode
+        </item>
+        <item>Kirin|Chibaku Tensei|Amenotejikara</item>
+        <item>
+            Byakugo|Okasho|Healing
+        </item>
+        <item>
+            Kamui Raikiri|Susanoo|Kamui
+        </item>
+        <item>
+            Kuchiyose: Goju Rashomon|Genjutsu: Kokuangyo no Jutsu|Mokuton Hijutsu: Jukai Kotan
+        </item>
+        <item>
+            Suidanha|Suiryuudan no jutsu|Suishoha
+        </item>
+        <item>
+            Goton Dairendan no Jutsu|Shuriken Kage Bunshin no Jutsu|Monkey King Enma
+        </item>
+        <item>
+            Rasengan|Hiraishin no Jutsu|Hiraishin—Ni no
+        </item>
+        <item>
+            The Gate of Opening|The Gate of Healing|The Gate of Life
+        </item>
+        <item>
+            Kuchiyose: Gamaguchi Shibari|Magen: Gama Rinshō|Senpō: Goemon
+        </item>
+    </string-array>
+
 </resources>

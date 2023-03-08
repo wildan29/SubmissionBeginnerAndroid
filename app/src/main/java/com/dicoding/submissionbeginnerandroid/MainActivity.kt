@@ -31,9 +31,11 @@ class MainActivity : AppCompatActivity() {
         val namaAnime = resources.getStringArray(R.array.nama_anime)
         val descAnime = resources.getStringArray(R.array.deskripsi_anime)
         val gambarAnime = resources.getStringArray(R.array.gambar_anime)
+        val kepribadian = resources.getStringArray(R.array.kepribadian)
+        val kemampuan = resources.getStringArray(R.array.kemampuan)
         val listAnime = ArrayList<Anime>()
         for(i in 0 until 10){
-            listAnime.add(Anime(namaAnime[i],descAnime[i],gambarAnime[i]))
+            listAnime.add(Anime(namaAnime[i],descAnime[i],gambarAnime[i],kemampuan[i],kepribadian[i]))
         }
         return listAnime
     }
